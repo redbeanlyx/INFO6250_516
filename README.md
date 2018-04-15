@@ -15,7 +15,7 @@ The knapsack problem or rucksack problem is a problem in combinatorial optimizat
 
 ** All the details of our final project are included in our report
 
-at the begining of our report, we extract some basic and import information from the desctiption which the professor gave us in the blackboard
+at the begining of our report, we extract some basic and import information from the description which the professor gave us in the blackboard
 
 after that we explain every details with charts and screenshots
 
