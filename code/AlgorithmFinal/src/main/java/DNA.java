@@ -21,5 +21,4 @@ public class DNA {
         weight = weightResult;
         value = valueResult;
     }
-
 }
